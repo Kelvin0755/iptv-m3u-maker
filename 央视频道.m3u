@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV4K超高清
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
+#EXTINF:-1 ,CCTV1 HD
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
+#EXTINF:-1 ,CCTV2 HD
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
+#EXTINF:-1 ,CCTV3 HD
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
+#EXTINF:-1 ,CCTV4 HD
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
+#EXTINF:-1 ,CCTV4欧洲频道 HD
+http://117.148.179.162/TVOD/88888888/224/3221231615/index.m3u8
+#EXTINF:-1 ,CCTV4美洲频道 HD
+http://117.148.179.160/TVOD/88888888/224/3221231654/index.m3u8
+#EXTINF:-1 ,CCTV5体育 HD
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
+#EXTINF:-1 ,CCTV5+ HD
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
+#EXTINF:-1 ,CCTV6 HD
+http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 ,CCTV7 HD
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
+#EXTINF:-1 ,CCTV8 HD
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
+#EXTINF:-1 ,CCTV9 HD
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
+#EXTINF:-1 ,CCTV10 HD
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
+#EXTINF:-1 ,CCTV11 HD
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
+#EXTINF:-1 ,CCTV12 HD
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
+#EXTINF:-1 ,CCTV13 HD
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+#EXTINF:-1 ,CCTV14 HD
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
+#EXTINF:-1 ,CCTV15 HD
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
+#EXTINF:-1 ,CCTV16 4K超高清
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012492303.m3u8
+#EXTINF:-1 ,CCTV16 4K超高清
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233442/index.m3u8
+#EXTINF:-1 ,CCTV17 HD
+http://39.135.138.58:18890/PLTV/88888888/224/3221225908/index.m3u8
+#EXTINF:-1 ,CGTN HD
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
+#EXTINF:-1 ,CGTN记录 HD
+http://iptv.tvfix.org/hls/cgtndochd.m3u8
+#EXTINF:-1 ,CCTV风云音乐 HD
+http://iptv.tvfix.org/hls/cctvfyyyhd.m3u8
+#EXTINF:-1 ,CCTV风云剧场 HD
+http://iptv.tvfix.org/hls/cctvfyjchd.m3u8
+#EXTINF:-1 ,CCTV风云足球 HD
+http://iptv.tvfix.org/hls/cctvfyzqhd.m3u8
+#EXTINF:-1 ,CCTV兵器科技 HD
+http://iptv.tvfix.org/hls/cctvbqkjhd.m3u8
+#EXTINF:-1 ,CCTV第一剧场 HD
+http://iptv.tvfix.org/hls/cctvdyjchd.m3u8
+#EXTINF:-1 ,CCTV怀旧剧场 HD
+http://iptv.tvfix.org/hls/cctvhjjchd.m3u8
+#EXTINF:-1 ,CCTV世界地理 HD
+http://iptv.tvfix.org/hls/cctvsjdlhd.m3u8
+#EXTINF:-1 ,CCTV文化精品 HD
+http://iptv.tvfix.org/hls/cctvwhjphd.m3u8
+#EXTINF:-1 ,CCTV电视指南 HD
+http://iptv.tvfix.org/hls/cctvdsznhd.m3u8
+#EXTINF:-1 ,CCTV台球频道 HD
+http://iptv.tvfix.org/hls/cctvtqhd.m3u8
+#EXTINF:-1 ,CCTV高尔夫频道 HD
+http://iptv.tvfix.org/hls/cctvgefwqhd.m3u8
+#EXTINF:-1 ,CGTN阿语 HD
+http://iptv.tvfix.org/hls/cgtnahd.m3u8
+#EXTINF:-1 ,CGTN俄语 HD
+http://iptv.tvfix.org/hls/cgtnehd.m3u8
+#EXTINF:-1 ,CGTN法语 HD
+http://iptv.tvfix.org/hls/cgtnfhd.m3u8
+#EXTINF:-1 ,CGTN西语 HD
+http://iptv.tvfix.org/hls/cgtnxhd.m3u8
