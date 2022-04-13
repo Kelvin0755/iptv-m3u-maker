@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 ,凤凰资讯 HD
+http://183.207.249.34/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 ,凤凰中文 HD
+http://183.207.249.34/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 ,凤凰香港 HD
+http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 ,TVB翡翠台 HD
+https://cdn.hklive.tv/raw/81.ts
+#EXTINF:-1 ,TVB翡翠台 HD（备）
+http://iptv.tvfix.org/hls/jade.m3u8
+#EXTINF:-1 ,TVB无线新闻 HD
+https://cdn.hklive.tv/raw/83.ts
+#EXTINF:-1 ,TVB明珠台 HD
+https://cdn.hklive.tv/raw/84.ts
+#EXTINF:-1 ,TVBJ2 HD
+https://cdn.hklive.tv/raw/82.ts
+#EXTINF:-1 ,TVB无线财经 HD
+https://cdn.hklive.tv/raw/85.ts
+#EXTINF:-1 ,TVB星河频道 HD
+http://iptv.tvfix.org/hls/tvbxh.m3u8
+#EXTINF:-1 ,TVB功夫台
+http://iptv.tvfix.org/hls/tvbkf2.m3u8
+#EXTINF:-1 ,香港国际财经台 HD
+https://cdn.hklive.tv/raw/76.ts
+#EXTINF:-1 ,香港开电视 HD
+https://cdn.hklive.tv/raw/77.ts
+#EXTINF:-1 ,ViuTV HD
+https://cdn.hklive.tv/raw/99.ts
+#EXTINF:-1 ,ViuTV Six HD
+https://cdn.hklive.tv/raw/96.ts
+#EXTINF:-1 ,RHK31 HD
+https://cdn.hkyoutv.com/raw/31.ts
+#EXTINF:-1 ,RHK32 HD
+https://cdn.hkyoutv.com/raw/32.ts
+#EXTINF:-1 ,RHK33 HD
+https://cdn.hkyoutv.com/raw/33.ts
+#EXTINF:-1 ,HKC有线新闻 HD
+https://dm1133.kglink.xyz/live/03
+#EXTINF:-1 ,HKC有线财经 HD
+https://dm1133.kglink.xyz/live/04
+#EXTINF:-1 ,NowTV Sporst HD
+https://dm1133.kglink.xyz/live/09
+#EXTINF:-1 ,澳亚卫视
+http://live.mastvnet.com:800/4rlff1m/live.m3u8
+#EXTINF:-1 ,Thrill HD
+http://iptv.tvfix.org/hls/thrill.m3u8
+#EXTINF:-1 ,美亚电影 HD
+http://iptv.tvfix.org/hls/mydy.m3u8
+#EXTINF:-1 ,天映频道 HD
+http://iptv.tvfix.org/hls/typd.m3u8
+#EXTINF:-1 ,卫视电影 HD
+http://iptv.tvfix.org/hls/starmovies.m3u8
+#EXTINF:-1 ,东森电影 HD
+http://120.84.96.32:808/hls/32/index.m3u8
+#EXTINF:-1 ,东森洋片 HD
+http://120.84.96.32:808/hls/33/index.m3u8
+#EXTINF:-1 ,龙祥时代 HD
+http://120.84.96.32:808/hls/35/index.m3u8
+#EXTINF:-1 ,天映经典
+http://120.84.96.32:808/hls/85/index.m3u8
+#EXTINF:-1 ,星空卫视
+http://iptv.tvfix.org/hls/startv.m3u8
+#EXTINF:-1 ,莲花卫视
+http://120.84.96.32:808/hls/24/index.m3u8
+#EXTINF:-1 ,KBS World HD
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+#EXTINF:-1 ,HUB都会台 HD
+http://iptv.tvfix.org/hls/hubcity.m3u8
+#EXTINF:-1 ,HUB娱家台 HD
+http://iptv.tvfix.org/hls/hubvv.m3u8
+#EXTINF:-1 ,NBA HD
+http://iptv.tvfix.org/hls/nbatv.m3u8
+#EXTINF:-1 ,华视新闻 HD
+http://60.250.91.85:8538/.m3u8
+#EXTINF:-1 ,中天娱乐 HD
+http://60.250.91.85:8585/.m3u8
