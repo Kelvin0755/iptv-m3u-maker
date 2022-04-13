@@ -6,33 +6,41 @@ http://183.207.249.34/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1 ,凤凰香港 HD
 http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 ,TVB翡翠台 HD
+https://cdn.hklive.tv/raw/81.ts
+#EXTINF:-1 ,TVB翡翠台 HD（备）
 http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 ,TVB无线新闻 HD
-http://iptv.tvfix.org/hls/inews.m3u8
+https://cdn.hklive.tv/raw/83.ts
 #EXTINF:-1 ,TVB明珠台 HD
-http://iptv.tvfix.org/hls/pearl.m3u8
+https://cdn.hklive.tv/raw/84.ts
 #EXTINF:-1 ,TVBJ2 HD
-http://iptv.tvfix.org/hls/j2.m3u8
+https://cdn.hklive.tv/raw/82.ts
 #EXTINF:-1 ,TVB无线财经 HD
-https://cdn.hkyoutv.com/raw/85.ts
+https://cdn.hklive.tv/raw/85.ts
 #EXTINF:-1 ,TVB星河频道 HD
 http://iptv.tvfix.org/hls/tvbxh.m3u8
 #EXTINF:-1 ,TVB功夫台
 http://iptv.tvfix.org/hls/tvbkf2.m3u8
 #EXTINF:-1 ,香港国际财经台 HD
-https://cdn.hkyoutv.com/raw/76.ts
+https://cdn.hklive.tv/raw/76.ts
 #EXTINF:-1 ,香港开电视 HD
-https://cdn.hkyoutv.com/raw/77.ts
+https://cdn.hklive.tv/raw/77.ts
 #EXTINF:-1 ,ViuTV HD
-https://cdn.hkyoutv.com/raw/99.ts
+https://cdn.hklive.tv/raw/99.ts
 #EXTINF:-1 ,ViuTV Six HD
-https://cdn.hkyoutv.com/raw/96.ts
+https://cdn.hklive.tv/raw/96.ts
 #EXTINF:-1 ,RHK31 HD
 https://cdn.hkyoutv.com/raw/31.ts
 #EXTINF:-1 ,RHK32 HD
 https://cdn.hkyoutv.com/raw/32.ts
 #EXTINF:-1 ,RHK33 HD
 https://cdn.hkyoutv.com/raw/33.ts
+#EXTINF:-1 ,HKC有线新闻 HD
+https://dm1133.kglink.xyz/live/03
+#EXTINF:-1 ,HKC有线财经 HD
+https://dm1133.kglink.xyz/live/04
+#EXTINF:-1 ,NowTV Sporst HD
+https://dm1133.kglink.xyz/live/09
 #EXTINF:-1 ,澳亚卫视
 http://live.mastvnet.com:800/4rlff1m/live.m3u8
 #EXTINF:-1 ,Thrill HD
